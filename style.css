@@ -1,12 +1,16 @@
+body {
+  background-color: white
+}
+
 header {
-  display: flex;
+  display: inline-flex;
 }
 
 
 footer {
-  display: flex;
+  display: inline-flex;
 }
 
-img {
+#logo {
   display: flex; align-items: center; justify-content: center;
 }
