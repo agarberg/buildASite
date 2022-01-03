@@ -1,14 +1,14 @@
 body {
-  background-color: white
+  background-color: white;
 }
 
 header {
-  display: inline-flex;
+  display: flex; justify content: space-between;
 }
 
 
 footer {
-  display: inline-flex;
+  display: flex; justify content: space-between;
 }
 
 #logo {
